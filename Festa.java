@@ -1,8 +1,12 @@
 public class Festa {
     
     Festa(int sexe, int drogues, int rockandroll){
+    
     }
     
+    public int GetRockAndRoll(){
+    
+    }
 }
 
 public class La_Gran_Festa_X{
@@ -10006,4 +10010,5 @@ int x9996;
 int x9997;
 int x9998;
 int x9999;
+
 }
