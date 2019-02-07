@@ -1,7 +1,12 @@
 public class Festa {
     
-    Festa(int sexe, int drogues, int rockandroll){
+    int sexe, drogues, rockandroll;
     
+    Festa(int sexe, int drogues, int rockandroll){
+
+        this.sexe = sexe;
+        this.drogues = drogues;
+        this.rockandroll = rockandroll;       
     }
     
     public int GetRockAndRoll(){
@@ -10010,5 +10015,6 @@ int x9996;
 int x9997;
 int x9998;
 int x9999;
+
 
 }
